@@ -1,6 +1,11 @@
 {
-    "name": "R Package Development",
-    "description": "A dev container for R package development projects.",
-    "tags": ["R", "docker"]
-  }
+  "id": "r-pkg-development",
+  "version": "0.1.0",
+  "name": "R Package Development",
+  "description": "A dev container for R package development projects.",
+  "documentationURL": "https://github.com/calderonsamuel/devcontainer-templates/tree/main/src/r-pkg-development",
+  "licenseURL": "https://github.com/calderonsamuel/devcontainer-templates/blob/main/LICENSE",
+  "options":{},
+  "tags": ["R", "docker"]
+}
   
