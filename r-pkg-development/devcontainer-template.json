@@ -1,0 +1,6 @@
+{
+    "name": "R Package Development",
+    "description": "A dev container for R package development projects.",
+    "tags": ["R", "docker"]
+  }
+  
